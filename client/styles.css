@@ -1,0 +1,16 @@
+.wellx {
+    color:tomato;
+    font-size:2em;
+    text-shadow: 2px 2px #ff0000;
+    text-shadow: 1px 1px 1px #000,
+                 2px 2px 3px #ff0000,
+                 3px 3px 5px blue,
+                 4px 4px 7px rgba(255, 255, 255, 0.4); 
+
+}
+
+.btns input {
+    margin-right:5px;
+    margin-bottom: 20px;
+    width:100px;
+}
