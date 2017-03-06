@@ -15,7 +15,16 @@ for angular command line
 npm install -g @angular/cli
 
 https://github.com/angular/angular-cli
-nvm install node
+
+
+echo "# meantodos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add gh-origin https://github.com/zjn700/meantodos.git
+git push -u gh-origin master
+
+
 Hi there! Welcome to Cloud9 IDE!
 
 To get you started, create some files, play with the terminal,
